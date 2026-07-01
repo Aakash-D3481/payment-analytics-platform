@@ -1,0 +1,10 @@
+{
+    "raw_prefix": "raw/",
+    "processed_prefix": "processed/",
+    "curated_prefix": "curated/",
+    "logs_prefix": "logs/",
+    "allowed_file_extensions": [
+        ".csv"
+    ],
+    "max_file_size_mb": 500
+}
