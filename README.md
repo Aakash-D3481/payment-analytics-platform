@@ -1,2 +1,29 @@
-# payment-analytics-platform
-Cloud-native payment analytics platform built using AWS, Python, SQL, Athena, and Power BI.
+# Payment Analytics Platform
+
+## Business Problem
+
+## Solution Overview
+
+## Technology Stack
+
+## Architecture
+
+## Dataset
+
+## Project Structure
+
+## ETL Pipeline
+
+## Data Model
+
+## Power BI Dashboards
+
+## SQL Validation
+
+## AWS Services Used
+
+## Project Screenshots
+
+## Business Insights
+
+## Future Improvements
