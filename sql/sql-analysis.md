@@ -39,7 +39,7 @@ FROM fact_transactions;
 
 ## Result
 
-![alt text](screenshots/question1-business-kpis.png)
+![Overall Business KPIs](../screenshots/sql/question1-business-kpis.png)
 
 ## Insights
 
@@ -99,10 +99,11 @@ SELECT
 
 FROM monthly_summary
 ORDER BY year, month;
+```
 
 ## Result
 
-![alt text](screenshots/question2-monthly-transaction-trends.png)
+![Monthly Transaction Trends](../screenshots/sql/question2-monthly-transaction-trends.png)
 
 ## Insights
 
@@ -116,7 +117,7 @@ ORDER BY year, month;
 
 ## SQL Query
 
-```
+```sql
 SELECT
     m.merchant_category,
 
@@ -145,7 +146,7 @@ ORDER BY
 
 ## Result
 
-![alt text](question3-merchant-category-revenue.png)
+![Revenue by Merchant Category](../screenshots/sql/question3-merchant-category-revenue.png)
 
 ## Insights
 
@@ -176,7 +177,7 @@ ORDER BY
 
 ## Result
 
-![alt text](question4-state-revenue.png)
+![Revenue by State](../screenshots/sql/question4-state-revenue.png)
 
 ## Insights
 
@@ -227,14 +228,14 @@ LIMIT 5;
 
 ## Result
 
-![alt text](question5-fraud-by-category.png)
+![Fraud by Merchant Category](../screenshots/sql/question5-fraud-by-category.png)
 
 ## Insights
 
-**Metrics**
+### Metric Definitions
 
-Fraud Rate (%) → Measures the likelihood of fraud within a category (risk).
-Fraud Contribution (%) → Measures how much each category contributes to total fraud (business impact).
+- **Fraud Rate (%)** – Measures the likelihood of fraud occurring within a merchant category.
+- **Fraud Contribution (%)** – Measures the percentage of total fraudulent transactions contributed by each merchant category.
 
 - **Shopping Net** recorded the highest fraud rate (**1.68%**), indicating it is the riskiest merchant category despite not processing the highest transaction volume.
 - **Grocery POS** accounted for the largest share of fraudulent transactions (**23.31%**), contributing **1,750 fraud cases**, making it the category with the greatest overall fraud impact.
@@ -267,7 +268,7 @@ LIMIT 10;
 
 ## Result
 
-![alt text](question6-top-spending-customers.png)
+![Top Spending Customers](../screenshots/sql/question6-top-spending-customers.png)
 
 ## Insights
 
@@ -312,7 +313,7 @@ ORDER BY
 
 ## Result
 
-![alt text](question7-hourly-transaction-analysis.png)
+![Hourly Transaction Analysis](../screenshots/sql/question7-hourly-transaction-analysis.png)
 
 ## Insights
 
