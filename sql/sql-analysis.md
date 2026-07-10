@@ -39,7 +39,7 @@ FROM fact_transactions;
 
 ## Result
 
-![Overall Business KPIs](../screenshots/sql/question1-business-kpis.png)
+![Overall Business KPIs](..sql/screenshots/question1-business-kpis.png)
 
 ## Insights
 
@@ -103,7 +103,7 @@ ORDER BY year, month;
 
 ## Result
 
-![Monthly Transaction Trends](../screenshots/sql/question2-monthly-transaction-trends.png)
+![Monthly Transaction Trends](..sql/screenshots/question2-monthly-transaction-trends.png)
 
 ## Insights
 
@@ -146,7 +146,7 @@ ORDER BY
 
 ## Result
 
-![Revenue by Merchant Category](../screenshots/sql/question3-merchant-category-revenue.png)
+![Revenue by Merchant Category](..sql/screenshots/question3-merchant-category-revenue.png)
 
 ## Insights
 
@@ -177,7 +177,7 @@ ORDER BY
 
 ## Result
 
-![Revenue by State](../screenshots/sql/question4-state-revenue.png)
+![Revenue by State](..sql/screenshots/question4-state-revenue.png)
 
 ## Insights
 
@@ -228,7 +228,7 @@ LIMIT 5;
 
 ## Result
 
-![Fraud by Merchant Category](../screenshots/sql/question5-fraud-by-category.png)
+![Fraud by Merchant Category](..sql/screenshots/question5-fraud-by-category.png)
 
 ## Insights
 
@@ -268,7 +268,7 @@ LIMIT 10;
 
 ## Result
 
-![Top Spending Customers](../screenshots/sql/question6-top-spending-customers.png)
+![Top Spending Customers](..sql/screenshots/question6-top-spending-customers.png)
 
 ## Insights
 
@@ -313,7 +313,7 @@ ORDER BY
 
 ## Result
 
-![Hourly Transaction Analysis](../screenshots/sql/question7-hourly-transaction-analysis.png)
+![Hourly Transaction Analysis](..sql/screenshots/question7-hourly-transaction-analysis.png)
 
 ## Insights
 
