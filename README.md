@@ -1,10 +1,10 @@
-# 💳 Payment & Fraud Analytics Platform
+# Payment & Fraud Analytics Platform
 
 An end-to-end cloud-based data analytics platform built on AWS that transforms raw payment transaction data into actionable business insights through ETL pipelines, SQL analytics, and interactive Power BI dashboards.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Modern payment platforms process millions of transactions daily, making it increasingly difficult for organizations to monitor business performance, detect fraud patterns, and understand customer and merchant behaviour.
 
@@ -14,7 +14,7 @@ The solution leverages AWS services for data ingestion, validation, transformati
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Financial organizations require timely insights into transaction activity to answer questions such as:
 
@@ -29,7 +29,7 @@ Raw transactional datasets alone cannot answer these questions effectively. A st
 
 ---
 
-# 🏗 Solution Architecture
+# Solution Architecture
 
 The platform follows a modern cloud analytics architecture.
 
@@ -63,7 +63,7 @@ The platform follows a modern cloud analytics architecture.
 
 ---
 
-# ☁ AWS Data Pipeline
+# AWS Data Pipeline
 
 ## 1. Amazon S3
 
@@ -119,7 +119,7 @@ Instead of querying raw transactional data repeatedly, analytical SQL views were
 
 ---
 
-# ⭐ Data Warehouse Design
+# Data Warehouse Design
 
 The analytical layer was designed using a dimensional modeling approach.
 
@@ -146,7 +146,7 @@ This design enables efficient analytical queries while maintaining scalability f
 
 ---
 
-# 🗄 SQL Analysis
+# SQL Analysis
 
 Rather than connecting Power BI directly to transactional data, SQL views were created in Amazon Athena to answer specific business questions.
 
@@ -198,7 +198,7 @@ These SQL views simplify Power BI development while improving report performance
 
 ---
 
-# 📊 Power BI Dashboard Analysis
+# Power BI Dashboard Analysis
 
 The reporting layer consists of three interactive dashboards designed for different business stakeholders.
 
@@ -278,7 +278,7 @@ Understand customer behaviour and transaction patterns.
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 The analytics platform enables organizations to:
 
@@ -323,7 +323,7 @@ The analytics platform enables organizations to:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 payment-analytics-platform/
@@ -370,7 +370,7 @@ payment-analytics-platform/
 └── README.md
 ```
 
-## 👨‍💻 Author
+## Author
 
 **Aakash D**
 
