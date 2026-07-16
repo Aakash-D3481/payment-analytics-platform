@@ -4,6 +4,23 @@ An end-to-end cloud-based data analytics platform built on AWS that transforms r
 
 ---
 
+## 🚀 Project Highlights
+
+- Built an **end-to-end cloud-based payment analytics platform** using AWS, transforming raw transaction data into business-ready insights.
+- Designed and implemented an **AWS ETL pipeline** using Amazon S3, AWS Lambda, AWS Glue, Glue Data Catalog, and Amazon Athena.
+- Developed a **dimensional data warehouse** and created **4 analytical SQL views** to support executive, merchant, geographic, and customer reporting.
+- Created an interactive **3-page Power BI dashboard** featuring 20+ business visuals to analyze revenue, transaction trends, merchant performance, customer behavior, and fraud patterns.
+- Applied **business-driven analytics** by translating raw payment data into actionable insights for executive reporting, fraud monitoring, merchant performance evaluation, and customer behavior analysis.
+- Optimized analytical queries by storing curated datasets in **Parquet format**, improving query performance and reducing data processing overhead.
+
+---
+
+## 🏛 Architecture at a Glance
+
+**Data Source → Amazon S3 → AWS Lambda → AWS Glue ETL → Curated Parquet → Glue Data Catalog → Amazon Athena → Power BI Dashboard**
+
+---
+
 ## Project Overview
 
 Modern payment platforms process millions of transactions daily, making it increasingly difficult for organizations to monitor business performance, detect fraud patterns, and understand customer and merchant behaviour.
