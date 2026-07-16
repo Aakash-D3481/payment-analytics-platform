@@ -4,6 +4,32 @@ An end-to-end cloud-based data analytics platform built on AWS that transforms r
 
 ---
 
+<h2>📊 Dashboard Preview</h2>
+
+<table>
+<tr>
+<td align="center">
+<img src="screenshots/Executive View.png" width="100%">
+<br>
+<b>Executive Dashboard</b>
+</td>
+
+<td align="center">
+<img src="screenshots/Merchant Analytics.png" width="100%">
+<br>
+<b>Merchant Analytics</b>
+</td>
+
+<td align="center">
+<img src="screenshots/Customer Analytics.png" width="100%">
+<br>
+<b>Customer Analytics</b>
+</td>
+</tr>
+</table>
+
+---
+
 ## Project Highlights
 
 - Built an **end-to-end cloud-based payment analytics platform** using AWS, transforming raw transaction data into business-ready insights.
