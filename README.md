@@ -15,7 +15,7 @@ An end-to-end cloud-based data analytics platform built on AWS that transforms r
 </td>
 
 <td align="center">
-<img src="screenshots/Merchant Analytics.png" width="100%">
+<img src="screenshots\Merchant Analyics.png" width="100%">
 <br>
 <b>Merchant Analytics</b>
 </td>
