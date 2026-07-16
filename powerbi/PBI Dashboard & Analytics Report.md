@@ -235,7 +235,7 @@ This enables users to drill into individual merchant performance beyond the summ
 
 ---
 
-![alt text](<Customer Analytics.png>)
+![alt text](<Customer Analytics-1.png>)
 
 # Customer Analytics
 
