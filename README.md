@@ -4,7 +4,7 @@ An end-to-end cloud-based data analytics platform built on AWS that transforms r
 
 ---
 
-<h2>📊 Dashboard Preview</h2>
+<h2>Power BI Dashboard Preview</h2>
 
 <table>
 <tr>
