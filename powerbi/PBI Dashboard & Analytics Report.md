@@ -12,7 +12,7 @@ The reports are powered by curated datasets stored in Amazon S3, processed using
 
 ---
 
-screenshots/Executive View.png
+![alt text](<Executive View.png>)
 
 # Executive View
 
