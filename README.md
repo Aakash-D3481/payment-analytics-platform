@@ -323,53 +323,6 @@ The analytics platform enables organizations to:
 
 ---
 
-# Repository Structure
-
-```
-payment-analytics-platform/
-│
-├── architecture/
-│   ├── architecture-diagram.png
-│   └── data-flow.png
-│
-├── athena/
-│   ├── create_views.sql
-│   └── analysis_queries.sql
-│
-├── dataset/
-│   ├── sample_data.csv
-│   └── schema.json
-│
-├── documentation/
-│   ├── dashboard-analysis.md
-│   ├── data-dictionary.md
-│   └── warehouse-design.md
-│
-├── glue/
-│   ├── glue-job-config.json
-│   └── transformations.md
-│
-├── lambda/
-│   └── validation_function.py
-│
-├── powerbi/
-│   ├── Payment_Fraud_Analytics.pbix
-│   └── dashboard_screenshots/
-│
-├── sql/
-│   ├── vw_transaction_summary.sql
-│   ├── vw_merchant_analysis.sql
-│   ├── vw_geographic_analysis.sql
-│   └── vw_customer_activity.sql
-│
-├── screenshots/
-│   ├── executive_dashboard.png
-│   ├── merchant_dashboard.png
-│   └── customer_dashboard.png
-│
-└── README.md
-```
-
 ## Author
 
 **Aakash D**
