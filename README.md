@@ -292,7 +292,7 @@ The analytics platform enables organizations to:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Cloud Services
 
